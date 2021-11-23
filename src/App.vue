@@ -8,6 +8,7 @@
       <productCard />
       <productCard />
       <productCard />
+      <productCard />
     </section>
   </div>
 </template>
@@ -44,5 +45,6 @@ export default {
 #productList {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 </style>

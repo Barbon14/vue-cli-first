@@ -19,6 +19,7 @@
     border: 1px solid lightgray;
     border-radius: 10px;
     padding: 20px;
+    margin: 20px;
     display: flex;
     flex-direction: column;
 }
@@ -27,5 +28,4 @@
 .card p {
     margin: 10px 0;
 }
-
 </style>
